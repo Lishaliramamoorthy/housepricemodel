@@ -84,7 +84,7 @@ Publish the website in the given URL.
   </body>
 </html>
 ```
-## HouseModelPrediction
+## HouseModelPrediction.html
 ```
 <!doctype html>
 <html lang="en">
@@ -175,12 +175,12 @@ Publish the website in the given URL.
 
 ```
 ## OUTPUT:
-```
+
 ![output](./static/img/o1.png)
 ![output](./static/img/o2.png)
 ![output](./static/img/r1.png)
 ![output](./static/img/r2.png)
-```
+
 ## RESULT:
 Thus, a webserver is designed to display house price prediction and is hosted in the URL
 http://lishali.student.saveetha.in:8000/HouseModelTraining/
